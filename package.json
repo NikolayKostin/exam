@@ -19,6 +19,7 @@
   "dependencies": {
     "gulp": "github:gulpjs/gulp#4.0",
     "gulp-autoprefixer": "^4.0.0",
+    "gulp-clean": "^0.3.2",
     "gulp-concat": "^2.6.1",
     "gulp-debug": "^3.1.0",
     "gulp-filter": "^5.0.0",
@@ -36,6 +37,7 @@
     "gulp": "github:gulpjs/gulp#4.0",
     "gulp-autoprefixer": "^4.0.0",
     "gulp-notify": "^3.0.0",
-    "gulp-sass": "^3.1.0"
+    "gulp-sass": "^3.1.0",
+    "rimraf": "^2.6.1"
   }
 }

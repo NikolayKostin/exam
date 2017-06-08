@@ -1,0 +1,19 @@
+{
+  "name": "exam",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NikolayKostin/exam.git"
+  },
+  "author": "Nik Kostin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/NikolayKostin/exam/issues"
+  },
+  "homepage": "https://github.com/NikolayKostin/exam#readme"
+}
